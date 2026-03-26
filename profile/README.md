@@ -9,7 +9,7 @@
 
 <h1>✨ Welcome to Love-Letter-LNK ✨</h1>
 
-<img src="pixel%20sparkel.gif" width="20"> &nbsp;&nbsp;&nbsp; <img src="LiaaZekk.webp" alt="Lia Profil" width="120" height="120" style="border-radius: 50%; object-fit: cover; border: 3px dashed #ffb6c1; padding: 4px; background: white;"> &nbsp;&nbsp;&nbsp; <img src="pixel%20sparkel.gif" width="20">
+<img src="pixel%20sparkel.gif" width="20"> &nbsp;&nbsp;&nbsp; <img src="LiaaZekk.webp" alt="Lia Profil" width="200" height="150"> &nbsp;&nbsp;&nbsp; <img src="pixel%20sparkel.gif" width="20">
 
 <br>
 <p>
